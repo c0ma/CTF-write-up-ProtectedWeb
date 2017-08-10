@@ -5,9 +5,13 @@ When trying to access the page you get a basic auth login form, if changing the 
 This is the answer from the server:
 
 plato:cwCZtyglMC5so
+
 archimedes:cwF.rVNTH56tM
+
 pythagoras:cwUS7L9aCpoVo
+
 socrates:cw5pDVBUZ.vSc
+
 aristoteles:cwpAFgzFGU9t. 
 
 ```
